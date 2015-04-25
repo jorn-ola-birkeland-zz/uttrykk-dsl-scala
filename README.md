@@ -1,1 +1,2 @@
-# En (svært ufullstendig) port av https://github.com/eivindw/uttrykk-dsl
+# Beskrivelse
+En (svært ufullstendig) port av https://github.com/eivindw/uttrykk-dsl
