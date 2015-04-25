@@ -25,7 +25,7 @@ object Test {
 
     val reisefradrag = begrensetBom + kilometerfradrag - egenandel
 
-    val stedbundetReisefradrag = reisefradrag i "Lom"
+    //val stedbundetReisefradrag = reisefradrag i "Lom kommune"
 
     val kontekst = new SkattyterKontekst()
 
